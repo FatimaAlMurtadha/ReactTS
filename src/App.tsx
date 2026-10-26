@@ -1,5 +1,5 @@
 import './App.css'
-import Welcome from "./Welcome"
+import { Welcome } from "./Welcome"
 import Button from "./Button"
 import Hello from './Hello'
 
